@@ -1,2 +1,2 @@
-# Valenthi
+# Valethi
 Dashboard and Projects
